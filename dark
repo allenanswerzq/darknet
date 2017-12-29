@@ -1,0 +1,1 @@
+./darknet detector test cfg/coco.data cfg/yolov2-608x608.cfg cfg/yolov2-608x608.weights data/dog.jpg
